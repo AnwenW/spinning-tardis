@@ -1,0 +1,42 @@
+:root {
+    --tardis-main-blue: #215785;
+    --tardis-dark-blue: #003865;
+}
+
+.st0 {
+  fill: var(--tardis-main-blue);
+}
+
+.st1 {
+  fill: var(--tardis-dark-blue);
+}
+
+.st2 {
+  fill: none;
+  stroke: var(--tardis-dark-blue);
+  stroke-width: 5;
+  stroke-miterlimit: 10;
+}
+
+.st3 {
+  fill: none;
+  stroke: var(--tardis-dark-blue);
+  stroke-width: 4;
+  stroke-miterlimit: 10;
+}
+
+.st4 {
+  fill: white;
+}
+
+.st5 {
+  fill: #616A77;
+}
+
+.st6 {
+  fill: #14273D;
+}
+
+.st7 {
+  fill: #FFFCDF;
+}
