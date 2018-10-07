@@ -44,6 +44,7 @@ body {
   background: rgb(112,50,50);
   background: radial-gradient(circle, rgba(112,50,50,1) 0%, rgba(0,19,52,1) 100%);
   background-attachment: fixed;
+  padding-top: 10vh;
 }
 
 .rotating-tardis {
